@@ -69,7 +69,7 @@ engineering.
 ## Pre-workshop Checklist
 
 **Step 1: Join the class Piazza**
-We will be using Piazza for questions and answers. Piazza will allow you to ask questions to the instructors before or during the class. Here is how to sign up:
+**[NOTE: THIS NEEDS TO BE CHECKED!!!]** We will be using Piazza for questions and answers. Piazza will allow you to ask questions to the instructors before or during the class. Here is how to sign up:
 - Go to the [class signup page](https://piazza.com/stanford/spring2023/icmeswml). You should see a website that looks like the image below:
 ![Piazza Signup Page](/assets/img/piazza_signup_page.PNG)
 - **The listed term for the course is Spring 2023, which is incorrect. However, this is still the correct class** (there was a clerical error made when setting up the class). Join the class by entering in Class Access Code icme2023optimization.
@@ -77,8 +77,7 @@ We will be using Piazza for questions and answers. Piazza will allow you to ask 
 Once you've joined the class, you can submit questions by clicking the blue **New Post** button at the top left of the webpage.
 
 **Step 2: Fill out the pre-course survey**
-Please fill out this quick 2-minute [pre-course survey](https://forms.gle/F3BWp57NDzxxwYz19)! You will need so sign in with your email address to fill out this form.
-Filling this out will help us tweak the course contents to meet your needs!
+Please fill out this quick 2-minute [pre-course survey](https://forms.gle/F3BWp57NDzxxwYz19)! You will need so sign in with your email address to fill out this form.  Filling this out will help us tweak the course contents to meet your needs!
 
 **Step 3: Access the course contents**
 The course slides and tutorials are available via Google Drive. Here is how to access the course contents:
@@ -119,10 +118,6 @@ The Python Notebooks in this course’s shared Drive contain real-world examples
   - Convex optimization
   - Convex optimization examples
   - Closing Q&A
-
- <! -- ## Workshop Recordings
-#### [Day 1 (Friday, August 5)](https://stanford.zoom.us/rec/share/_ywxfX_zDiEELl91GqXnInUqg112R0hqyOaY1z_FwqROd9oYaFdbHWpbXwRKc7xS.nQaNYQtMeXAJemf2?startTime=1659728459000)
-#### [Day 2 (Monday, August 8)](https://stanford.zoom.us/rec/share/1Aahw88UPIWLFUNcIIyszlib3lZQElZcYSZ-naH3Ju82e2EipQ85yEMMky2_s43J.lRTYbp1NdOr9Zu9Q?startTime=1659987873000) --> 
 
 ## Additional Resources
 
