@@ -97,7 +97,7 @@ The course slides and tutorials are available via Google Drive. Here is how to a
 - Click on "ICME Summer Workshop 2023 - Introduction to Mathematical Optimization" > "Add Shortcut to Drive".
 
 **Step 4: Try out the tutorials for yourself!**
-The class tutorials are hosted on Google Collab. [Google Colab](https://colab.research.google.com/) is a free cloud-based Jupyter Notebook environment.
+The class tutorials are hosted on Google Colab. [Google Colab](https://colab.research.google.com/) is a free cloud-based Jupyter Notebook environment.
 The Python Notebooks in this course’s shared Drive contain real-world examples of optimization problems that you can explore and study by running them using Google Colab. Here are the steps to get started:
 - In Google Drive, go to "ICME Summer Workshop 2023 - Introduction To Mathematical
   Optimization" > "Notebooks"
