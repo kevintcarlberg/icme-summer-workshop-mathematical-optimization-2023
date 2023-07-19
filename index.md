@@ -47,7 +47,7 @@ Participative activities may benefit from a larger screen, so joining via a
 smartphone or tablet is not recommended.
 
 
-# About the Instructor
+# About the Instructors
 
 ![Kevin Carlberg](/assets/img/profile.jpg){:style="max-width:30%;"}
 
@@ -64,15 +64,24 @@ of PhD students, postdocs, and technical staff in applying these techniques to
 a range of national-security applications in mechanical and aerospace
 engineering.
 
+![Salil Deshpande](/assets/img/profile_salil.jpg){:style="max-width:30%;"}
+
+Salil Deshpande is a PhD student at Stanford ICME. He does research
+in the field of computational genomics, developing deep learning and
+machine learning techniques to investigate the function of the
+noncoding genome. Previously, he studied Chemical Engineering and 
+Mathematics at UT Austin, where he did research in quantum chemistry and 
+materials physics.
+
 # Workshop Materials
 
 ## Pre-workshop Checklist
 
 **Step 1: Join the class Piazza**
-**[NOTE: THIS NEEDS TO BE CHECKED!!!]** We will be using Piazza for questions and answers. Piazza will allow you to ask questions to the instructors before or during the class. Here is how to sign up:
-- Go to the [class signup page](https://piazza.com/stanford/spring2023/icmeswml). You should see a website that looks like the image below:
-![Piazza Signup Page](/assets/img/piazza_signup_page.PNG)
-- **The listed term for the course is Spring 2023, which is incorrect. However, this is still the correct class** (there was a clerical error made when setting up the class). Join the class by entering in Class Access Code icme2023optimization.
+We will be using Piazza for questions and answers. Piazza will allow you to ask questions to the instructors before or during the class. Here is how to sign up:
+- Go to the [class signup page](https://piazza.com/stanford/summer2023/cmesw09). You should see a website that looks like the image below:
+![Piazza Signup Page](/assets/img/piazza_signup_page.png)
+- Join the class by entering in Class Access Code icme2023optimization.
 - You may need to provide an email address if you do not already have a Piazza account
 Once you've joined the class, you can submit questions by clicking the blue **New Post** button at the top left of the webpage.
 
