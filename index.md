@@ -64,7 +64,7 @@ of PhD students, postdocs, and technical staff in applying these techniques to
 a range of national-security applications in mechanical and aerospace
 engineering.
 
-![Salil Deshpande](/assets/img/profile_salil.jpg){:style="max-width:30%;"}
+![Salil Deshpande](/assets/img/profile_salil.png){:style="max-width:30%;"}
 
 Salil Deshpande is a PhD student at Stanford ICME. He does research
 in the field of computational genomics, developing deep learning and
