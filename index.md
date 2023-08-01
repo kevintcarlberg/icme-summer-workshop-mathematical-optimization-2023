@@ -116,14 +116,14 @@ The Python Notebooks in this course’s shared Drive contain real-world examples
   - Introduction to optimization
   - Unconstrained optimization
 
-#### Session 2 (Wednesday, August 5, 8:45 - 11:00 A.M. PDT)
+#### Session 2 (Wednesday, August 2, 8:45 - 11:00 A.M. PDT)
   - Optimization in Python
 
-#### Session 3 (Thursday, August 8, 8:00 - 9:15 A.M. PDT)
+#### Session 3 (Thursday, August 3, 8:00 - 9:15 A.M. PDT)
   - Constrained optimization
   - Optimization for machine learning
 
-#### Session 4 (Thursday, August 8, 9:30 - 11:00 A.M. PDT)
+#### Session 4 (Thursday, August 3, 9:30 - 11:00 A.M. PDT)
   - Convex optimization
   - Convex optimization examples
   - Closing Q&A
